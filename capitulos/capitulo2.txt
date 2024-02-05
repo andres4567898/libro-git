@@ -1,0 +1,4 @@
+El flujo de tranbajo basico con Git consiste en:
+1- hacer cambios en el respositorio
+2- añadir los cambio a la zona de intercambio temporal
+3- hacer un commit de los cambio

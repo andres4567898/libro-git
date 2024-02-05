@@ -1,0 +1,2 @@
+chacon, s. and straub, b pro git.
+loeliger, j. and mccullough, m version control.

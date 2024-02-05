@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+nuevas referencias
+=======
+scott chacon
+>>>>>>> bibliografia
